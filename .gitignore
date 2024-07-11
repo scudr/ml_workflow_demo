@@ -1,0 +1,11 @@
+# Ignore the Kaggle API key file
+dags/kaggle.json
+
+# Ignore logs
+logs/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore environment files
+.env
